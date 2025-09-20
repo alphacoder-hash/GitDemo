@@ -1,0 +1,34 @@
+Git >> Version Control
+    
+      v1
+      v2
+      v3
+  new v4 << If we are facing the problem in current version then we will retreive to the previous version to fix it.
+
+>> It is distributed (On Cloud)
+>> Collaboration
+>> Tracking 
+
+GitHub
+BitBucket
+GitLabs
+GitPod
+
+>> For first time need to configure github in our system
+git config --global user.name "alphacoder-hash"
+git config --global user.email "aryanpandey392@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory Commands:
+ >> git init
+ >> git remote add origin https://github.com/alphacoder-hash/GitDemo.git
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
+ 

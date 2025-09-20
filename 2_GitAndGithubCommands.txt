@@ -32,3 +32,11 @@ git status
 git commit -m "Commit Message"
 git push
  
+Create Seperate Branch
+ >> git checkout -b "BranchName"
+
+if we created a 2nd Branch and want to change to the first one then command will be:
+ >> git checkout "BranchName"
+
+For cloning the gitHub repo:
+ >> git clone https://github.com/alphacoder-hash/GitDemo.git

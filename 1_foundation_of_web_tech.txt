@@ -1,0 +1,78 @@
+MEAN stack
+  >> M: MongoDB (Database)
+  >> E: ExpressJs (Backend)
+  >> A: Angular / R: React (Frontend)
+  >> N: NodeJs (Backend)
+  
+Three Pillars :: Building Block
+  >> HTML (Hyper Text Markup Language)
+  >> CSS  (Cascading Style Sheet) It helps in the styling of the website.
+  >> JS   (Java Script) Brain of the application
+
+Other Stacks:
+  >> MEAN, MERN, Java Full Stack
+
+Web Dev
+  >> Building/Developers Team
+  >> Testing Team (Manual Testers/Automated Testers)
+  >> Hosting Team (DevOps Team)
+  >> Maintenance Team/Support Team
+
+SDLC (Software Development Life Cycle):
+  >> WaterFall Model
+  >> Agile Model
+  >> Spiral Model
+  >> Iterative Model
+  >> Incremental Model
+  >> V shaped Model
+  >> RAD (Rapid Application Development) Model
+  
+URL (Uniform Resource Locator):
+  >> Locate the particular resource in a Uniform way.
+    https://www.instagram.com/
+    https://education.rohanAcademy.edu/FullStack
+    
+         >> https: Protocol
+           >> Set of rules/instruction
+              https: Hyper text transfer protocol secure 
+              http: Hyper text transfer protocol
+              tcp: Transmission control protocol
+              udp: User datagram protocol
+              smtp: Simple mail transfer protocol
+              ftp: File transfer protocol
+              ip: Internet protocol (ipV4 & ipV6)
+
+               >> Client/Wen Page --------------(uName & upwd) -----------> Instagram Server
+               To secure our application we uses SSL certification:
+               >> SSL (Secure Socket Layer) Certification
+
+         >> rohanAcademy: Server/Domain Name
+           >> Unique Identifier
+             >> Eg: Google
+            
+         >> education: Sub-Domain
+           >> gMeet
+           >> gMap
+           >> gDrive
+           >> Gmail
+           >> gPhotos
+
+         >> .edu: TLD(Top Level Domain)
+           >> We can get same company name with different extension
+              >> Amazon.in
+              >> Amazon.edu
+              >> Amazon.org
+
+         >> FullStack: Path/Location
+
+Offline Editors:
+  >> Notepad
+  >> Notepad++
+  >> Sublime
+  >> Open Brackets
+  >> VS Code
+
+Online Editors:
+  >> CodeSpace
+  >> CodeSandbox
+  
